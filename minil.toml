@@ -1,0 +1,4 @@
+name = "Otogiri-Plugin-InsertMulti"
+# badges = ["travis"]
+module_maker="ModuleBuildTiny"
+
