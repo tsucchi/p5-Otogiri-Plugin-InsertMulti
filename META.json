@@ -1,7 +1,7 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "Otogiri plugin to insert multiple rows using L<SQL::Maker::InsertMulti>",
    "author" : [
-      "Takuya Tsuchida <takuya.tsuchida@gmail.com>"
+      "Takuya Tsuchida <tsucchi@cpan.org>"
    ],
    "dynamic_config" : 0,
    "generated_by" : "Minilla/v3.0.4, CPAN::Meta::Converter version 2.141170",
@@ -52,5 +52,16 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/tsucchi/p5-Otogiri-Plugin-InsertMulti/issues"
+      },
+      "homepage" : "https://github.com/tsucchi/p5-Otogiri-Plugin-InsertMulti",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/tsucchi/p5-Otogiri-Plugin-InsertMulti.git",
+         "web" : "https://github.com/tsucchi/p5-Otogiri-Plugin-InsertMulti"
+      }
+   },
    "version" : "0.01"
 }
